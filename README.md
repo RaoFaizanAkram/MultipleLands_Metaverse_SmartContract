@@ -1,2 +1,2 @@
-# MonterZone master minting smart contract ERC721
- Master minting smart contract ERC721
+# Monster-Zone
+ EERC721 smart contract with multiple minting
